@@ -1,0 +1,22 @@
+{
+  "name": "mon-ile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Mon Île — un city-builder isométrique relaxant sur une petite île",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/ios": "^7.0.0",
+    "typescript": "^5.6.0",
+    "vite": "^6.0.0"
+  }
+}

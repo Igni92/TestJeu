@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mon Île</string>
+    <string name="title_activity_main">Mon Île</string>
+    <string name="package_name">com.monile.game</string>
+    <string name="custom_url_scheme">com.monile.game</string>
+</resources>

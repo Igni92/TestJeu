@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# Garder android/ et ios/ versionnés pour le déploiement Capacitor.
+# Les fichiers générés natifs sont gérés par les .gitignore de chaque plateforme.
